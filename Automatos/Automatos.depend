@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1529419404 source:c:\users\benjamin\desktop\trabalho\automatos\funcaoprograma.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<iomanip>
+	"funcaoPrograma.h"
+
+1529413026 source:c:\users\benjamin\desktop\trabalho\automatos\main.cpp
+	<iostream>
+	<string.h>
+	"funcaoPrograma.h"
+
+1529109689 c:\users\benjamin\desktop\trabalho\automatos\funcaoprograma.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<iomanip>
+
+1529416267 c:\users\benjamin\desktop\trabalho\automatos\funcaoprograma.h
+
+1529421780 source:e:\automatos\funcaoprograma.cpp
+	<iostream>
+	<string.h>
+	<math.h>
+	<iomanip>
+	"funcaoPrograma.h"
+
+1529416268 e:\automatos\funcaoprograma.h
+
+1529413028 source:e:\automatos\main.cpp
+	<iostream>
+	<string.h>
+	"funcaoPrograma.h"
+
